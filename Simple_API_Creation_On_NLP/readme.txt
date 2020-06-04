@@ -17,5 +17,5 @@ python -m spacy download en_core_web_sm
 
 python manage.py runserver
 
-# pass data in json format {"data":"This is Ashish and i am software developer"}
+# pass data in json format {"data":"This is Ashish"}
 # API will now give response with part of speach of every word.
