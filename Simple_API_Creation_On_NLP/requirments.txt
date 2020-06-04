@@ -1,8 +1,0 @@
-spacy
-requests
-django
-djangorestframework
-django-rest-knox
-django-filter
-
-#python -m spacy download en_core_web_sm
