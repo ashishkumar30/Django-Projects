@@ -1,16 +1,7 @@
 # Creating API on Django using Natural Language Processing -Spacy in backend.
 # This Simple API on Django takes string as an input and give response of Part of speech of every word in string using SPACY.
 # It will takes both Get and Post requests.
-#First start virtual environment startproject using command 
 
-cd start_project
-cd scripts
-activate.bat
-cd..
-cd..
-python manage.py runserver
-
-#OR --
 
 #install all requirments using command 
 
