@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+{% load static %}
+
+<html>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+
+
+  <head>
+    <meta charset="utf-8">
+    <title>Location Finder</title>
+  </head>
+  <body>
+
+
+<div class="jumbotron">
+  <h1 class="display-12">Latitude Longitude Finder !</h1>
+  <p class="lead">Accepts an XL file containing one or more addresses and on submit, returns an updated XL file with the addresses along with latitude and longitude for each address</p>
+  <p class="lead"> Output will be a XL file containing dictionary with address, latitude & longitude i.e {'delhi': {'lat': 28.6517178, 'lng': 77.2219388}}</p>
+  <hr class="my-4">
+  <p>Please Select and Upload any CSV/xls/xlsx file.</p>
+  <p class="lead">
+
+  </p>
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="file" name="myfile">
+
+    <button type="submit" class="btn btn-outline-primary">Upload</button>
+  </form>
+
+  {% if uploaded_file_url %}
+    <p>Download Excel file Here :- <a href="{{ uploaded_file_url }}">{{ uploaded_file_url }}</a></p>
+
+
+        <div class="jumbotron jumbotron-fluid">
+          <div class="container">
+            <h1 class="display-4"></h1>
+            <p class="lead"> Processing complete! please click on The link to Download File</p>
+          </div>
+        </div>
+
+  {% endif %}
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Thankyou</h1>
+    <p class="lead">  </p>
+  </div>
+</div>
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4"></h1>
+    <p class="lead"> </p>
+  </div>
+</div>
+  </body>
+</html>

@@ -1,0 +1,208 @@
+Movie Name       Days from Release       Days       Box Office Collection 
+Luka Chuppi          Day 1                 02-03-2019                      80100000             
+Luka Chuppi          Day 2                 03-03-2019                      100800000            
+Luka Chuppi          Day 3                 04-03-2019                      140400000            
+Luka Chuppi          Day 4                 05-03-2019                      79000000             
+Luka Chuppi          Day 5                 06-03-2019                      50400000             
+Luka Chuppi          Day 6                 07-03-2019                      46000000             
+Luka Chuppi          Day 7                 08-03-2019                      40300000             
+Luka Chuppi          Day 8                 09-03-2019                      31500000             
+Luka Chuppi          Day 9                 10-03-2019                      52000000             
+Luka Chuppi          Day 10                11-03-2019                      53099999             
+Luka Chuppi          Day 11                12-03-2019                      20500000             
+Luka Chuppi          Day 12                13-03-2019                      20700000             
+Luka Chuppi          Day 13                14-03-2019                      19600000             
+Luka Chuppi          Day 14                15-03-2019                      18000000             
+Luka Chuppi          Day 15                16-03-2019                      16200000             
+Luka Chuppi          Day 16                17-03-2019                      22500000             
+Luka Chuppi          Day 17                18-03-2019                      34000000             
+Luka Chuppi          Day 18                19-03-2019                      13300000             
+Luka Chuppi          Day 19                20-03-2019                      13500000             
+Luka Chuppi          Day 20                21-03-2019                      11700000             
+Luka Chuppi          Day 21                22-03-2019                      6300000              
+Luka Chuppi          Day 22                23-03-2019                      6100000              
+Luka Chuppi          Day 23                24-03-2019                      8100000              
+Luka Chuppi          Day 24                25-03-2019                      9700000              
+Luka Chuppi          Day 25                26-03-2019                      4300000              
+Luka Chuppi          Day 26                27-03-2019                      3600000              
+Luka Chuppi          Day 27                28-03-2019                      4300000              
+Luka Chuppi          Day 28                29-03-2019                      4300000              
+Luka Chuppi          Day 29                30-03-2019                      2500000              
+Luka Chuppi          Day 30                31-03-2019                      3400000              
+Luka Chuppi          Day 31                01-04-2019                      4300000              
+Luka Chuppi          Day 32                02-04-2019                      1800000              
+Luka Chuppi          Day 33                03-04-2019                      1600000              
+Luka Chuppi          Day 34                04-04-2019                      1600000              
+Luka Chuppi          Day 35                05-04-2019                      1800000              
+Luka Chuppi          Day 36 - Day 42       06-04-2019 - 12-04-2019         9700000              
+Luka Chuppi          Day 43 - Day 45       13-04-2019 - 15-04-2019         4500000              
+Luka Chuppi          Day 46 - Day 49       16-04-2019 - 19-04-2019         5000000              
+Luka Chuppi          Day 50 - Day 56       20-04-2019 - 26-04-2019         800000               
+Luka Chuppi          Day 57 - Day 63       27-04-2019 - 03-05-2019         200000               
+Movie Name       Days from Release       Days       Box Office Collection 
+Badla                Day 1                 09-03-2019                      50400000             
+Badla                Day 2                 10-03-2019                      85500000             
+Badla                Day 3                 11-03-2019                      96100000             
+Badla                Day 4                 12-03-2019                      37500000             
+Badla                Day 5                 13-03-2019                      38500000             
+Badla                Day 6                 14-03-2019                      35500000             
+Badla                Day 7                 15-03-2019                      36500000             
+Badla                Day 8                 16-03-2019                      40500000             
+Badla                Day 9                 17-03-2019                      67000000             
+Badla                Day 10                18-03-2019                      82200000             
+Badla                Day 11                19-03-2019                      28000000             
+Badla                Day 12                20-03-2019                      26000000             
+Badla                Day 13                21-03-2019                      26000000             
+Badla                Day 14                22-03-2019                      23500000             
+Badla                Day 15                23-03-2019                      20700000             
+Badla                Day 16                24-03-2019                      26500000             
+Badla                Day 17                25-03-2019                      27500000             
+Badla                Day 18                26-03-2019                      10000000             
+Badla                Day 19                27-03-2019                      9000000              
+Badla                Day 20                28-03-2019                      9000000              
+Badla                Day 21                29-03-2019                      8500000              
+Badla                Day 22                30-03-2019                      7000000              
+Badla                Day 23                31-03-2019                      12000000             
+Badla                Day 24                01-04-2019                      14500000             
+Badla                Day 25                02-04-2019                      5500000              
+Badla                Day 26                03-04-2019                      5000000              
+Badla                Day 27                04-04-2019                      4500000              
+Badla                Day 28                05-04-2019                      4000000              
+Badla                Day 29                06-04-2019                      3000000              
+Badla                Day 30                07-04-2019                      5500000              
+Badla                Day 31                08-04-2019                      7200000              
+Badla                Day 32                09-04-2019                      2000000              
+Badla                Day 33                10-04-2019                      2000000              
+Badla                Day 34                11-04-2019                      2000000              
+Badla                Day 35                12-04-2019                      2000000              
+Badla                Day 36                13-04-2019                      2000000              
+Badla                Day 37                14-04-2019                      3600000              
+Badla                Day 38                15-04-2019                      4500000              
+Badla                Day 39                16-04-2019                      2000000              
+Badla                Day 40                17-04-2019                      2000000              
+Badla                Day 41                18-04-2019                      1500000              
+Badla                Day 42                19-04-2019                      1000000              
+Badla                Day 43 - Day 45       20-04-2019 - 22-04-2019         3000000              
+Badla                Day 46 - Day 49       23-04-2019 - 26-04-2019         1500000              
+Badla                Day 50 - Day 56       27-04-2019 - 03-05-2019         1000000              
+Badla                Day 57 - Day 63       04-05-2019 - 10-05-2019         200000               
+Movie Name       Days from Release       Days       Box Office Collection 
+Kesari               Day 1                 22-03-2019                      210600000            
+Kesari               Day 2                 23-03-2019                      167500000            
+Kesari               Day 3                 24-03-2019                      187500000            
+Kesari               Day 4                 25-03-2019                      215100000            
+Kesari               Day 5                 26-03-2019                      82500000             
+Kesari               Day 6                 27-03-2019                      71700000             
+Kesari               Day 7                 28-03-2019                      65199999             
+Kesari               Day 8                 29-03-2019                      58500000             
+Kesari               Day 9                 30-03-2019                      44500000             
+Kesari               Day 10                31-03-2019                      64500000             
+Kesari               Day 11                01-04-2019                      82500000             
+Kesari               Day 12                02-04-2019                      32700000             
+Kesari               Day 13                03-04-2019                      27500000             
+Kesari               Day 14                04-04-2019                      24200000             
+Kesari               Day 15                05-04-2019                      20700000             
+Kesari               Day 16                06-04-2019                      16500000             
+Kesari               Day 17                07-04-2019                      26200000             
+Kesari               Day 18                08-04-2019                      32300000             
+Kesari               Day 19                09-04-2019                      12000000             
+Kesari               Day 20                10-04-2019                      10200000             
+Kesari               Day 21                11-04-2019                      10200000             
+Kesari               Day 22                12-04-2019                      9500000              
+Kesari               Day 23                13-04-2019                      7000000              
+Kesari               Day 24                14-04-2019                      13000000             
+Kesari               Day 25                15-04-2019                      17000000             
+Kesari               Day 26                16-04-2019                      5500000              
+Kesari               Day 27                17-04-2019                      5000000              
+Kesari               Day 28                18-04-2019                      4000000              
+Kesari               Day 29                19-04-2019                      3000000              
+Kesari               Day 30                20-04-2019                      2500000              
+Kesari               Day 31                21-04-2019                      3200000              
+Kesari               Day 32                22-04-2019                      4500000              
+Kesari               Day 33                23-04-2019                      1500000              
+Kesari               Day 34                24-04-2019                      1400000              
+Kesari               Day 35                25-04-2019                      1000000              
+Kesari               Day 36                26-04-2019                      1000000              
+Kesari               Day 37 - Day 43       27-04-2019 - 03-05-2019         4000000              
+Kesari               Day 44 - Day 50       04-05-2019 - 10-05-2019         200000               
+Kesari               Day 51 - Day 57       11-05-2019 - 17-05-2019         100000               
+Movie Name       Days from Release       Days       Box Office Collection 
+Gully Boy            Day 1                 15-02-2019                      194000000            
+Gully Boy            Day 2                 16-02-2019                      131000000            
+Gully Boy            Day 3                 17-02-2019                      186500000            
+Gully Boy            Day 4                 18-02-2019                      213000000            
+Gully Boy            Day 5                 19-02-2019                      86500000             
+Gully Boy            Day 6                 20-02-2019                      80500000             
+Gully Boy            Day 7                 21-02-2019                      60500000             
+Gully Boy            Day 8                 22-02-2019                      51000000             
+Gully Boy            Day 9                 23-02-2019                      39000000             
+Gully Boy            Day 10                24-02-2019                      70500000             
+Gully Boy            Day 11                25-02-2019                      71000000             
+Gully Boy            Day 12                26-02-2019                      24500000             
+Gully Boy            Day 13                27-02-2019                      23000000             
+Gully Boy            Day 14                28-02-2019                      21000000             
+Gully Boy            Day 15                01-03-2019                      19000000             
+Gully Boy            Day 16                02-03-2019                      11800000             
+Gully Boy            Day 17                03-03-2019                      21000000             
+Gully Boy            Day 18                04-03-2019                      25500000             
+Gully Boy            Day 19                05-03-2019                      12800000             
+Gully Boy            Day 20                06-03-2019                      6500000              
+Gully Boy            Day 21                07-03-2019                      6000000              
+Gully Boy            Day 22                08-03-2019                      5500000              
+Gully Boy            Day 23                09-03-2019                      3500000              
+Gully Boy            Day 24                10-03-2019                      5699999              
+Gully Boy            Day 25                11-03-2019                      6500000              
+Gully Boy            Day 26                12-03-2019                      2500000              
+Gully Boy            Day 27                13-03-2019                      2000000              
+Gully Boy            Day 28                14-03-2019                      2000000              
+Gully Boy            Day 29                15-03-2019                      2000000              
+Gully Boy            Day 30                16-03-2019                      1500000              
+Gully Boy            Day 31                17-03-2019                      2500000              
+Gully Boy            Day 32                18-03-2019                      3200000              
+Gully Boy            Day 33                19-03-2019                      1200000              
+Gully Boy            Day 34                20-03-2019                      1200000              
+Gully Boy            Day 35                21-03-2019                      1100000              
+Gully Boy            Day 36                22-03-2019                      1000000              
+Gully Boy            Day 37 - Day 43       23-03-2019 - 29-03-2019         3300000              
+Gully Boy            Day 44 - Day 50       30-03-2019 - 05-04-2019         1900000              
+Gully Boy            Day 51 - Day 57       06-04-2019 - 12-04-2019         900000               
+Gully Boy            Day 58 - Day 64       13-04-2019 - 19-04-2019         400000               
+Movie Name       Days from Release       Days       Box Office Collection 
+Total Dhamaal        Day 1                 23-02-2019                      165000000            
+Total Dhamaal        Day 2                 24-02-2019                      204000000            
+Total Dhamaal        Day 3                 25-02-2019                      255000000            
+Total Dhamaal        Day 4                 26-02-2019                      98500000             
+Total Dhamaal        Day 5                 27-02-2019                      87500000             
+Total Dhamaal        Day 6                 28-02-2019                      70500000             
+Total Dhamaal        Day 7                 01-03-2019                      65000000             
+Total Dhamaal        Day 8                 02-03-2019                      47500000             
+Total Dhamaal        Day 9                 03-03-2019                      70200000             
+Total Dhamaal        Day 10                04-03-2019                      114500000            
+Total Dhamaal        Day 11                05-03-2019                      60300000             
+Total Dhamaal        Day 12                06-03-2019                      32000000             
+Total Dhamaal        Day 13                07-03-2019                      30000000             
+Total Dhamaal        Day 14                08-03-2019                      26000000             
+Total Dhamaal        Day 15                09-03-2019                      17000000             
+Total Dhamaal        Day 16                10-03-2019                      27599999             
+Total Dhamaal        Day 17                11-03-2019                      39500000             
+Total Dhamaal        Day 18                12-03-2019                      14000000             
+Total Dhamaal        Day 19                13-03-2019                      11500000             
+Total Dhamaal        Day 20                14-03-2019                      11000000             
+Total Dhamaal        Day 21                15-03-2019                      10500000             
+Total Dhamaal        Day 22                16-03-2019                      9500000              
+Total Dhamaal        Day 23                17-03-2019                      16000000             
+Total Dhamaal        Day 24                18-03-2019                      25000000             
+Total Dhamaal        Day 25                19-03-2019                      4000000              
+Total Dhamaal        Day 26                20-03-2019                      3000000              
+Total Dhamaal        Day 27                21-03-2019                      3000000              
+Total Dhamaal        Day 28                22-03-2019                      3000000              
+Total Dhamaal        Day 29                23-03-2019                      3000000              
+Total Dhamaal        Day 30                24-03-2019                      4000000              
+Total Dhamaal        Day 31                25-03-2019                      5000000              
+Total Dhamaal        Day 32                26-03-2019                      800000               
+Total Dhamaal        Day 33                27-03-2019                      800000               
+Total Dhamaal        Day 34                28-03-2019                      800000               
+Total Dhamaal        Day 35                29-03-2019                      800000               
+Total Dhamaal        Day 36 - Day 42       30-03-2019 - 05-04-2019         3900000              
+Total Dhamaal        Day 43 - Day 49       06-04-2019 - 12-04-2019         1800000              
+Total Dhamaal        Day 50 - Day 56       13-04-2019 - 19-04-2019         800000               
